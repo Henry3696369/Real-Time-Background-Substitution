@@ -1,3 +1,7 @@
+
+A computer vision project exploring multi-modal spatiotemporal post-processing techniques to improve neural confidence maps for real-time background substitution.
+
+
 python -m venv venv
 
 .\venv\Scripts\activate
